@@ -1,4 +1,5 @@
 # Setup
+Url shortener and Qr code generator using ejs Nodejs and mongodb 
 
 1. clone this project 
 
